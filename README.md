@@ -8,7 +8,7 @@
 
 ## 😼 BACK-END 환경
 
-- 자바 버전 : 8
+- 자바 버전 : 11
 - 사용 IDE : INTELLIJ
 - 빌드 도구 : maven
 - ORM : JPA
