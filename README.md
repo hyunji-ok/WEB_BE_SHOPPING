@@ -12,6 +12,7 @@
 - 스프링부트 버전 : 2.5.2
 - 사용 IDE : INTELLIJ
 - 빌드 도구 : maven
+- Dependencies : Lombok, Thymeleaf, Spring Data JPA, Spring Web, MySQL Driver, H2 Database
 - ORM : JPA
 - JPA Provider : Hibernate
 - 데이터베이스 : mysql
